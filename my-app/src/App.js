@@ -3,7 +3,7 @@ import './App.css';
 // App.js
 
 import Navbar from "./Components/Navbar"
-import Footer from "./Components/Footer";
+//import Footer from "./Components/Footer";
 import Home from "./Components/Home";
 import Features from "./Components/Feature";
 import Sales from "./Components/Onsale";
@@ -18,9 +18,10 @@ function App() {
             <About />
             <Features />
             <Sales />
-            <Footer />
+            
         </div>
     );
 }
 
 export default App;
+//<Footer />
