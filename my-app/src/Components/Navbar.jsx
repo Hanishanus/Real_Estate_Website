@@ -35,7 +35,7 @@ const Navbar = () => {
             <div className="text-4xl cursor-pointer 
                             inline-flex items-center text-amber-800">
                 <Link to="home" smooth={true} duration={500}>
-                    Geeks Real Estate
+                    Hanis Real Estate
                 </Link>
             </div>
             <div className="md:hidden" onClick={handleMenuClick}>
